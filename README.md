@@ -1,2 +1,2 @@
 # Excel-Portfolio-Project
-It contains portfolio project related to excel.
+Hey there! This is my **Excel Portfolio Project** which contains my works related to Microsoft excel showcasing the use of data by creating visuals and solve everyday problems.
