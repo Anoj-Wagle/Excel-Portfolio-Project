@@ -22,7 +22,7 @@ This is the budget tracking project which provides insights on the income, savin
 # Project Value Statement:
 "These interactive visualizations transform raw financial data into actionable insights, enabling better personal finance decisions through clear, dashboard-ready representations of income allocation, spending habits, and savings potential."
 
-You can download project here: https://github.com/Anoj-Wagle/Excel-Portfolio-Project/blob/main/Yearly%20Budget%20Tracking%20Dashboard/Budget_Tracking%20Dashboard.xlsx
+You can download project here: [Download Dashboard] (https://github.com/Anoj-Wagle/Excel-Portfolio-Project/blob/main/Yearly%20Budget%20Tracking%20Dashboard/Budget_Tracking%20Dashboard.xlsx)
 
 # Contribution
 Your input is valuable! Please fork, suggest improvements, or share ideas for future Excel tools. We're committed to delivering more impactful Excel-based solutions, so expect exciting updates soon! 🚀
