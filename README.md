@@ -28,8 +28,10 @@ You can download project here: [Download Dashboard](https://github.com/Anoj-Wagl
 # Project Overview
 
 This project analyses the **Australian Housing Market** in the suburbs of NSW using Excel. It provides insights into the number of properties listed, their price distribution, and the agents and agencies associated with these properties
+
 # Dashboard Preview
 <img width="1334" height="720" alt="image" src="https://github.com/user-attachments/assets/dd42a15a-4d97-4cc0-bb79-4971f735fb9d" />
+
 # Main Objectives of Project
 * **Distribution by Suburb** - Used to compare the number of property listed in each suburbs.
 *  **Top 10 Agency in Suburb** - Analysis of top real estate agencies by sales volume
@@ -50,12 +52,12 @@ This project analyses the **Australian Housing Market** in the suburbs of NSW us
    * Property Type
  
   ## Data Cleaning and Preprocessing
-  ##1. Remove text and other symbols from price values using **Text.Contains**, **Text.Replace**, and **Text.BeforeDelimiter** functions.
-  ##2. Removed columns with no data (empty columns) to clean the dataset.
-  ##3. Calculated statistical measures - Mean, Median and Mode.
+  #1. Remove text and other symbols from price values using **Text.Contains**, **Text.Replace**, and **Text.BeforeDelimiter** functions.
+  #2. Removed columns with no data (empty columns) to clean the dataset.
+  #3. Calculated statistical measures - Mean, Median and Mode.
 
 # Features of Dashboard
-##1. **Suburb Distribution**
+#1. **Suburb Distribution**
 
   
 The first slicer provides the details of suburbs that are listed in this Dashboard.
