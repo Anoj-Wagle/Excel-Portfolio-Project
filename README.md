@@ -52,30 +52,30 @@ This project analyses the **Australian Housing Market** in the suburbs of NSW us
    * Property Type
  
   ## Data Cleaning and Preprocessing
-  # 1. Remove text and other symbols from price values using **Text.Contains**, **Text.Replace**, and **Text.BeforeDelimiter** functions.
-  # 2. Removed columns with no data (empty columns) to clean the dataset.
-  # 3. Calculated statistical measures - Mean, Median and Mode.
+  - Remove text and other symbols from price values using **Text.Contains**, **Text.Replace**, and **Text.BeforeDelimiter** functions.
+  - Removed columns with no data (empty columns) to clean the dataset.
+  - Calculated statistical measures - Mean, Median and Mode.
 
-# Features of Dashboard
-# 1. Suburb Distribution
+## Features of Dashboard
+## 1. Suburb Distribution
 - Compare with different suburbs
 - Identifies the **most active suburb** in terms of property
   
-# 2. Top 10 Agencies by Suburb
+## 2. Top 10 Agencies by Suburb
 - Shows the top agencies that have maximum property sold/ listed
 - Lists the number of property listed by suburbs in terms of suburb.
 
-# 3. Type and Listed
+## 3. Type and Listed
 - List of property type
 - Provide number of properties with each suburb
 
-# 4. Top most agents who lists the property.
+## 4. Top most agents who lists the property.
 
-# 5. Pie chart divides the property with respect to suburbs.
+## 5. Pie chart divides the property with respect to suburbs.
 
-# 6. Analysed total number of property, apartment, townhouse.
+## 6. Analysed total number of property, apartment, townhouse.
 
-# 7. Provides the median sales amount for the property.
+## 7. Provides the median sales amount for the property.
 
 ## Findings from the Data
 - Provides the list of top agents
@@ -90,7 +90,7 @@ This project analyses the **Australian Housing Market** in the suburbs of NSW us
 - **Conditional Formatting** – Highlighting price variations and agency performance.  
 - **Data Visualization** – Pie charts, tables and slicers used for filtering data.
 
-# You can download project here:
+# You can download project here: [Download Dashboard](https://github.com/Anoj-Wagle/Excel-Portfolio-Project/tree/main/Australian%20Housing%20Dashboard)
 
 # Contribution
 Your input is valuable! Please fork, suggest improvements, or share ideas for future Excel tools. We're committed to delivering more impactful Excel-based solutions, so expect exciting updates soon! 🚀
