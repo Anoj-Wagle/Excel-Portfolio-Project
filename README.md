@@ -77,7 +77,7 @@ This project analyses the **Australian Housing Market** in the suburbs of NSW us
 
 ## 7. Provides the median sales amount for the property.
 
-## Findings from the Data
+## **Findings from the Data**
 - Provides the list of top agents
 - Provides the agent who listed more property.
 - The most property was listed in **Auburn** suburb.
@@ -90,7 +90,7 @@ This project analyses the **Australian Housing Market** in the suburbs of NSW us
 - **Conditional Formatting** – Highlighting price variations and agency performance.  
 - **Data Visualization** – Pie charts, tables and slicers used for filtering data.
 
-# You can download project here: [Download Dashboard](https://github.com/Anoj-Wagle/Excel-Portfolio-Project/tree/main/Australian%20Housing%20Dashboard)
+## You can download project here: [Download Dashboard](https://github.com/Anoj-Wagle/Excel-Portfolio-Project/tree/main/Australian%20Housing%20Dashboard)
 
 # Contribution
 Your input is valuable! Please fork, suggest improvements, or share ideas for future Excel tools. We're committed to delivering more impactful Excel-based solutions, so expect exciting updates soon! 🚀
